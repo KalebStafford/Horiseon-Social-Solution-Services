@@ -1,2 +1,16 @@
-# Horiseon-Social-Solution-Services
-horiseon is a company desgined for business owners who want to optimize the management with their colleagues.
+# Run Buddy, Inc
+
+## Purpose
+A website that offers fitness training services. 
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
